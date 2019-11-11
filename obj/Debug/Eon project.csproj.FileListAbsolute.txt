@@ -1,0 +1,70 @@
+C:\Users\Startech06\source\repos\Eon project\bin\Eon project.dll.config
+C:\Users\Startech06\source\repos\Eon project\bin\Eon project.dll
+C:\Users\Startech06\source\repos\Eon project\bin\Eon project.pdb
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\csc.exe
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\csc.exe.config
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\csc.rsp
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\csi.exe
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\csi.exe.config
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\csi.rsp
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.AppContext.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.Console.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.Security.Claims.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\vbc.exe
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\vbc.exe.config
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\vbc.rsp
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Startech06\source\repos\Eon project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Startech06\source\repos\Eon project\bin\Antlr3.Runtime.dll
+C:\Users\Startech06\source\repos\Eon project\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Startech06\source\repos\Eon project\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Startech06\source\repos\Eon project\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Startech06\source\repos\Eon project\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Startech06\source\repos\Eon project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Startech06\source\repos\Eon project\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Startech06\source\repos\Eon project\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Startech06\source\repos\Eon project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Startech06\source\repos\Eon project\bin\Newtonsoft.Json.dll
+C:\Users\Startech06\source\repos\Eon project\bin\System.Web.Optimization.dll
+C:\Users\Startech06\source\repos\Eon project\bin\WebGrease.dll
+C:\Users\Startech06\source\repos\Eon project\bin\System.Web.Optimization.xml
+C:\Users\Startech06\source\repos\Eon project\bin\Newtonsoft.Json.xml
+C:\Users\Startech06\source\repos\Eon project\bin\Antlr3.Runtime.pdb
+C:\Users\Startech06\source\repos\Eon project\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Startech06\source\repos\Eon project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Startech06\source\repos\Eon project\obj\Debug\Eon project.csprojAssemblyReference.cache
+C:\Users\Startech06\source\repos\Eon project\obj\Debug\Eon project.csproj.CopyComplete
+C:\Users\Startech06\source\repos\Eon project\obj\Debug\Eon project.dll
+C:\Users\Startech06\source\repos\Eon project\obj\Debug\Eon project.pdb
